@@ -4,7 +4,7 @@ Weather App
 
 # Demo Link
 
-The link to the live project 
+The link to the live project https://mbk-weather-app.netlify.app/
 
 # About The App
 
